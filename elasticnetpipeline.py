@@ -1,6 +1,5 @@
 """
 Theorem-Driven Elastic Net Hyperparameter Tuning with Optimal Sample Complexity
-GitHub: [Your Link Here]
 """
 import numpy as np
 import scipy.sparse as sp
